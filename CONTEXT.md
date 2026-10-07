@@ -1,5 +1,6 @@
 # Your company context
 
+[comment]: # (Todo el Texto oculto para humanos pero visible para agentes)
 Brasaland is a chain of grilled cuisine restaurants founded in 2008 in Medellín, Colombia. What began as a single family store became, in fifteen years, a chain of 14 own restaurants that operates in two countries: Colombia and the United States (Florida). The company employs about 115 people and has a turnover of around 6 million dollars per year.
 
 The brand has always stood for three things: a meal that tastes the same regardless of whether you order it in Medellin or Miami, a warm and consistent service experience, and a cuisine that moves fast. Those three commitments are what built the business — and they're also what make running it increasingly difficult without the right tools.
